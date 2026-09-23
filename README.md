@@ -1,5 +1,5 @@
 
-# Artificial Neural Network — Forward Propagation From Scratch
+# Artificial Neural Network, Forward Propagation From Scratch
 
 This project implements a simple Artificial Neural Network (ANN) **from scratch in Python** and demonstrates how predictions are produced using **forward propagation**.  
 The notebook builds the network structure, initializes weights and biases, and computes node activations layer by layer until producing the final output.
