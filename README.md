@@ -266,4 +266,3 @@ Key components implemented:
 - Layer-by-layer forward propagation
 
 The notebook provides a transparent and educational view of how neural networks transform inputs into outputs.
-```
